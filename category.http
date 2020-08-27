@@ -1,0 +1,14 @@
+GET https://localhost:3000
+content-type: application/json
+
+
+GET https://localhost:3000/categories
+content-type: application/json
+
+
+GET https://localhost:3000/categories
+content-type: application/json
+
+{
+    "name": "users"
+}
