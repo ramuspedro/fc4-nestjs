@@ -11,4 +11,7 @@ $ npm run start
 ```sh
 # build image
 $ docker build -t ramuspedro/fc4-nestjs .
+
+# run image
+$ docker run -p 3000:3000 ramuspedro/fc4-nestjs
 ```
